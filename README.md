@@ -26,7 +26,7 @@ Through constant hard work and determination of our team members, we built it us
  
 ## Authors
 
-- **Anjana K T**  - [anjanakta](https://github.com/anjanakta)
+- **Anjana K T**  - [anjanakta](https://github.com/anjana-kt)
 - **Aadhya K Raj**  - [aayahda](https://github.com/aayahda)
 - **Fida Fathima**  - [fida](https://github.com/fida)
 

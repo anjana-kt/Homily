@@ -17,13 +17,13 @@ Through constant hard work and determination of our team members, we built it us
 <p>Being a team of just three members and beginners we had to face a lot of issues due to lack of app development skills. We faced network issues and were not being able to communicate often as we were from different regions. </p>
 <p>We did overcome these challenges by developing our skills to the next level within a short period of time through strong determination and hard work even if it was just the three of us.</p>
 
+## Demo video
+  - [Homily demo]()
+
 ## What's next for _Homily_??
 - Adding artificial intelligence to  help people get ideas with more accuracy to help them take bold decisions confidently.
 - We also want to include features where we could provide them with necessary tools and templates for making customizable ads. <br>
-## Try it out
-
-  - [Demo video]()
-  -
+ 
 ## Authors
 
 - **Anjana K T**  - [anjanakta](https://github.com/anjanakta)

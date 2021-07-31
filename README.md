@@ -23,4 +23,10 @@ Through constant hard work and determination of our team members, we built it us
 ## Try it out
 
   - [Demo video]()
+  -
+## Authors
+
+- **Anjana K T**  - [anjanakta](https://github.com/anjanakta)
+- **Aadhya K Raj**  - [aayahda](https://github.com/aayahda)
+- **Fida Fathima**  - [fida](https://github.com/fida)
 

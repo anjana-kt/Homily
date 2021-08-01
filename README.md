@@ -15,7 +15,8 @@ Through constant hard work and determination of our team members, we built it us
 
 
 ## Demo video
-  - [Homily demo]()
+  - [Homily demo](https://youtu.be/wZlluT_z5K8)
+
 
 ## What's next for _Homily_??
 - Adding artificial intelligence to  help people get ideas with more accuracy to help them take bold decisions confidently.
@@ -23,7 +24,7 @@ Through constant hard work and determination of our team members, we built it us
  
 ## Authors
 
-- **Anjana K T**  - [anjanakta](https://github.com/anjana-kt)
+- **Anjana K T**  - [anjana-kt](https://github.com/anjana-kt)
 - **Aadhya K Raj**  - [aayahda](https://github.com/aayahda)
-- **Fida Fathima**  - [fida](https://github.com/fida)
+- **Fida Fathima**  - [fida](https://github.com/Fida123789)
 

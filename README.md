@@ -13,9 +13,6 @@ And the most interesting part is that the home business people get **business in
 ## How we built it...
 Through constant hard work and determination of our team members, we built it using flutter with firebase as backend and developed a better user interface using Figma, also we referred to one of our  friends who is a business analyst for the business intelligence.
 
-## Challenges we ran into
-<p>Being a team of just three members and beginners we had to face a lot of issues due to lack of app development skills. We faced network issues and were not being able to communicate often as we were from different regions. </p>
-<p>We did overcome these challenges by developing our skills to the next level within a short period of time through strong determination and hard work even if it was just the three of us.</p>
 
 ## Demo video
   - [Homily demo]()
